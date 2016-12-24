@@ -65,11 +65,12 @@ public class NumbersActivity extends AppCompatActivity {
             numbersArray.add(new Word(numbers[i],Miwok[i]));
         }
 
-        ArrayAdapter<Word> itemsAdapter = new ArrayAdapter<Word>(this, R.layout.list_item, numbersArray);
+        //ArrayAdapter<Word> itemsAdapter = new ArrayAdapter<Word>(this, R.layout.list_item, numbersArray);
 
+       WordAdapter wordAdapter = new WordAdapter(this, numbersArray);
         ListView listView = (ListView) findViewById(R.id.list);
 
-        listView.setAdapter(itemsAdapter);
+        listView.setAdapter(wordAdapter);
 
 
 
