@@ -7,7 +7,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:layout_marginLeft="16dp"
-        android:id="@+id/miwokTextView"/>
+        android:id="@+id/miwokTextView"
+        android:textSize="24sp"/>
     <TextView
         android:id="@+id/englishTextView"
         android:layout_width="match_parent"

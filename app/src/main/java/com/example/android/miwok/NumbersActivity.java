@@ -46,16 +46,17 @@ public class NumbersActivity extends AppCompatActivity {
         numbers[8]=getString(R.string.s8);
         numbers[9]=getString(R.string.s9);
 
-        Miwok[0]= "lutti";
-        Miwok[1]= getString(R.string.s1);
-        Miwok[2]=getString(R.string.s2);
-        Miwok[3]=getString(R.string.s3);
-        Miwok[4]=getString(R.string.s4);
-        Miwok[5]=getString(R.string.s5);
-        Miwok[6]=getString(R.string.s6);
-        Miwok[7]=getString(R.string.s7);
-        Miwok[8]=getString(R.string.s8);
-        Miwok[9]=getString(R.string.s9);
+        Miwok[0]= getString(R.string.m1);
+        Miwok[1]= getString(R.string.m2);
+        Miwok[2]=getString(R.string.m3);
+        Miwok[3]=getString(R.string.m4);
+        Miwok[4]=getString(R.string.m5);
+        Miwok[5]=getString(R.string.m6);
+        Miwok[6]=getString(R.string.m7);
+        Miwok[7]=getString(R.string.m8);
+        Miwok[8]=getString(R.string.m9);
+        Miwok[9]=getString(R.string.m10);
+
 
         ArrayList<Word> numbersArray = new ArrayList<Word>();
         //      LinearLayout rootView = (LinearLayout)findViewById(R.id.rootView);

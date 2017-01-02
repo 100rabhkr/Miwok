@@ -39,6 +39,49 @@
     <string name="s8">Nine</string>
     <string name="s9">Ten</string>
 
+    <string name="m1">lutti</string>
+
+    <string name="m2">otiiko</string>
+
+    <string name="m3">tolookosu</string>
+    <string name="m4">oyyisa</string>
+    <string name="m5">massokka
+</string>
+
+    <string name="m6">temmokka</string>
+    <string name="m7">Seven</string>
+    <string name="m8">kenekaku</string>
+    <string name="m9">kawinta</string>
+    <string name="m10">na\’aacha</string>
+
+
+    <string name="p0">Where are you going?</string>
+    <string name="p1">What is your name?</string>
+    <string name="p2">My name is...</string>
+    <string name="p3">How are you feeling?</string>
+    <string name="p4">I\’m feeling good.</string>
+    <string name="p5">Are you coming?</string>
+    <string name="p6">Yes, I\’m coming.</string>
+    <string name="p7">I\’m coming.</string>
+    <string name="p8">Let\’s go.</string>
+    <string name="p9">Come here.</string>
+
+    <string name="mp1">minto wuksus</string>
+
+    <string name="mp2">tinnә oyaase\'nә</string>
+
+    <string name="mp3">oyaaset...</string>
+    <string name="mp4">michәksәs?</string>
+    <string name="mp5">kuchi achit
+</string>
+    <string name="mp6">әәnәs\'aa?</string>
+    <string name="mp7">hәә\’ әәnәm</string>
+    <string name="mp8">әәnәm</string>
+    <string name="mp9">yoowutis</string>
+    <string name="mp10">әnni\'nem</string>
+
+
+
 
 
 </resources>
